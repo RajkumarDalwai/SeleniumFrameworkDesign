@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-18T07:38:56 IST" name="Default suite" finished-at="2025-04-18T07:39:06 IST" duration-ms="10347">
+    <groups>
+      <group name="ErrorHandling">
+        <method signature="ErrorValidationsTest.LoginErrorValidation()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" name="LoginErrorValidation" class="Tests.ErrorValidationsTest"/>
+      </group> <!-- ErrorHandling -->
+    </groups>
+    <test started-at="2025-04-18T07:38:56 IST" name="Default test" finished-at="2025-04-18T07:39:06 IST" duration-ms="10347">
+      <class name="Tests.ErrorValidationsTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:38:56 IST" name="launchApplication" finished-at="2025-04-18T07:39:00 IST" duration-ms="3750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="LoginErrorValidation()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:39:00 IST" name="LoginErrorValidation" finished-at="2025-04-18T07:39:00 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginErrorValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:39:00 IST" name="teardown" finished-at="2025-04-18T07:39:01 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:39:01 IST" name="launchApplication" finished-at="2025-04-18T07:39:04 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="ProductErrorValidation()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:39:04 IST" name="ProductErrorValidation" finished-at="2025-04-18T07:39:06 IST" duration-ms="2147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductErrorValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.ErrorValidationsTest@7c6908d7]" started-at="2025-04-18T07:39:06 IST" name="teardown" finished-at="2025-04-18T07:39:06 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.ErrorValidationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
